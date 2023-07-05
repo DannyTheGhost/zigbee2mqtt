@@ -14,9 +14,11 @@ external_converters:
   - LED_UNI.js
   - dimmer.js
 ota:
-  zigbee_ota_override_index_location: c:/mqtt/zigbee-OTA/index.json
+    zigbee_ota_override_index_location: customOTA.json
 devices:
   '0x8cf681fffebd4ef1':
     friendly_name: '0x8cf681fffebd4ef1'
   '0x8cf681fffebd5112':
     friendly_name: '0x8cf681fffebd5112'
+    transition: 0
+    

@@ -1,0 +1,10 @@
+[
+    {
+        "fileVersion": 10,
+        "fileSize": 174902,
+        "manufacturerCode": 4098,
+        "imageType": 380,
+        "sha512": "c8fbde1ea1bf1c15db23e94d3831b2f19696f25b441e5bed8c3d8608e1d8a4f01e00099692e9a455a05f9d3f464cd5631047ea3cda76d8029f30c465727d05fe",
+        "url": "c:/mqtt/zigbee-OTA/images/Tuya/DimmerOTA.ota"
+    }    
+]
